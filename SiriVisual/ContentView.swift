@@ -1,9 +1,13 @@
+//  /*
 //
-//  ContentView.swift
-//  SiriVisual
+//  Project: SiriVisual
+//  File: ContentView.swift
+//  Created by: Elaidzha Shchukin
+//  Date: 26.08.2023
 //
-//  Created by Elaidzha Shchukin on 26.08.2023.
+//  Status: in progress | Decorated
 //
+//  */
 
 import SwiftUI
 

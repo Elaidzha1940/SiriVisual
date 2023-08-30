@@ -12,10 +12,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State var isRotating = false 
+    
     var body: some View {
         
         VStack {
           
+            
         }
     }
 }

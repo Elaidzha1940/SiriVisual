@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E423FFDA2A9FD45000AE6F47 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = E423FFD92A9FD45000AE6F47 /* Test.swift */; };
 		E46EF21E2A99F8E40014AB93 /* SiriVisualApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E46EF21D2A99F8E40014AB93 /* SiriVisualApp.swift */; };
 		E46EF2202A99F8E40014AB93 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E46EF21F2A99F8E40014AB93 /* ContentView.swift */; };
 		E46EF2222A99F8E50014AB93 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E46EF2212A99F8E50014AB93 /* Assets.xcassets */; };
@@ -15,7 +14,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E423FFD92A9FD45000AE6F47 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		E46EF21A2A99F8E40014AB93 /* SiriVisual.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SiriVisual.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E46EF21D2A99F8E40014AB93 /* SiriVisualApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiriVisualApp.swift; sourceTree = "<group>"; };
 		E46EF21F2A99F8E40014AB93 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 				E46EF21F2A99F8E40014AB93 /* ContentView.swift */,
 				E46EF2212A99F8E50014AB93 /* Assets.xcassets */,
 				E46EF2232A99F8E50014AB93 /* Preview Content */,
-				E423FFD92A9FD45000AE6F47 /* Test.swift */,
 			);
 			path = SiriVisual;
 			sourceTree = "<group>";
@@ -142,7 +139,6 @@
 			files = (
 				E46EF2202A99F8E40014AB93 /* ContentView.swift in Sources */,
 				E46EF21E2A99F8E40014AB93 /* SiriVisualApp.swift in Sources */,
-				E423FFDA2A9FD45000AE6F47 /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

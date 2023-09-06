@@ -23,6 +23,7 @@ struct ContentView: View {
             Circle()
                 .frame(width: 100, height: 100)
                 .foregroundColor(.blue)
+                .foregroundColor(.red)
                 .scaleEffect(isAnimating ? 1.3 : 1.0)
                 .opacity(isAnimating ? 0.6 : 1.0)
                 .animation(
@@ -47,6 +48,7 @@ struct Conten: View {
     var body: some View {
         VStack {
             Text("Your App")
+                .foregroundColor(.red)
                 .font(.largeTitle)
                 .padding()
             

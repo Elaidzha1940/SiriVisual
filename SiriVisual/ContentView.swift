@@ -68,13 +68,13 @@ struct ContentView: View {
                     }
                 }
         }
-        .scaleEffect(0.7)
+        .scaleEffect(0.8)
+        .preferredColorScheme(.dark)
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
-            .preferredColorScheme(.dark)
     }
 }
